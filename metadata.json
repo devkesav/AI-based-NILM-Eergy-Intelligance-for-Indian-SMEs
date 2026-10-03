@@ -1,0 +1,6 @@
+{
+  "name": "FactoryPulse AI - Industrial NILM & Energy Intelligence",
+  "description": "AI-Driven Non-Intrusive Load Disaggregation and Production-Aware Energy Optimization for Smart Manufacturing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
